@@ -1,0 +1,7 @@
+H:\20250320_FarkasDominik\RealEstate\bin\Debug\RealEstate.exe.config
+H:\20250320_FarkasDominik\RealEstate\bin\Debug\RealEstate.exe
+H:\20250320_FarkasDominik\RealEstate\bin\Debug\RealEstate.pdb
+H:\20250320_FarkasDominik\RealEstate\obj\Debug\RealEstate.csproj.AssemblyReference.cache
+H:\20250320_FarkasDominik\RealEstate\obj\Debug\RealEstate.csproj.CoreCompileInputs.cache
+H:\20250320_FarkasDominik\RealEstate\obj\Debug\RealEstate.exe
+H:\20250320_FarkasDominik\RealEstate\obj\Debug\RealEstate.pdb

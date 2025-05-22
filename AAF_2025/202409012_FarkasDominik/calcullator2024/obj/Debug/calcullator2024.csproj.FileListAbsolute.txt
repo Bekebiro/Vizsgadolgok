@@ -1,0 +1,10 @@
+C:\Users\FarkasDominik\Downloads\202409012_FarkasDominik\calcullator2024\bin\Debug\calcullator2024.exe.config
+C:\Users\FarkasDominik\Downloads\202409012_FarkasDominik\calcullator2024\bin\Debug\calcullator2024.exe
+C:\Users\FarkasDominik\Downloads\202409012_FarkasDominik\calcullator2024\bin\Debug\calcullator2024.pdb
+C:\Users\FarkasDominik\Downloads\202409012_FarkasDominik\calcullator2024\obj\Debug\calcullator2024.csproj.AssemblyReference.cache
+C:\Users\FarkasDominik\Downloads\202409012_FarkasDominik\calcullator2024\obj\Debug\calcullator2024.Form1.resources
+C:\Users\FarkasDominik\Downloads\202409012_FarkasDominik\calcullator2024\obj\Debug\calcullator2024.Properties.Resources.resources
+C:\Users\FarkasDominik\Downloads\202409012_FarkasDominik\calcullator2024\obj\Debug\calcullator2024.csproj.GenerateResource.cache
+C:\Users\FarkasDominik\Downloads\202409012_FarkasDominik\calcullator2024\obj\Debug\calcullator2024.csproj.CoreCompileInputs.cache
+C:\Users\FarkasDominik\Downloads\202409012_FarkasDominik\calcullator2024\obj\Debug\calcullator2024.exe
+C:\Users\FarkasDominik\Downloads\202409012_FarkasDominik\calcullator2024\obj\Debug\calcullator2024.pdb

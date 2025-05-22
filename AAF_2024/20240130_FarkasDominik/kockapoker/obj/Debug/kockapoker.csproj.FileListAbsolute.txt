@@ -1,0 +1,7 @@
+C:\Users\FarkasDominik\Downloads\20240130_FarkasDominik\kockapoker\bin\Debug\kockapoker.exe.config
+C:\Users\FarkasDominik\Downloads\20240130_FarkasDominik\kockapoker\bin\Debug\kockapoker.exe
+C:\Users\FarkasDominik\Downloads\20240130_FarkasDominik\kockapoker\bin\Debug\kockapoker.pdb
+C:\Users\FarkasDominik\Downloads\20240130_FarkasDominik\kockapoker\obj\Debug\kockapoker.csproj.AssemblyReference.cache
+C:\Users\FarkasDominik\Downloads\20240130_FarkasDominik\kockapoker\obj\Debug\kockapoker.csproj.CoreCompileInputs.cache
+C:\Users\FarkasDominik\Downloads\20240130_FarkasDominik\kockapoker\obj\Debug\kockapoker.exe
+C:\Users\FarkasDominik\Downloads\20240130_FarkasDominik\kockapoker\obj\Debug\kockapoker.pdb

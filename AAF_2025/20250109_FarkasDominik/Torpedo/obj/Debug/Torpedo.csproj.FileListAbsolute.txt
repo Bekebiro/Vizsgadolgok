@@ -1,0 +1,10 @@
+C:\Users\FarkasDominik\Downloads\20250109_FarkasDominik\Torpedo\bin\Debug\Torpedo.exe.config
+C:\Users\FarkasDominik\Downloads\20250109_FarkasDominik\Torpedo\bin\Debug\Torpedo.exe
+C:\Users\FarkasDominik\Downloads\20250109_FarkasDominik\Torpedo\bin\Debug\Torpedo.pdb
+C:\Users\FarkasDominik\Downloads\20250109_FarkasDominik\Torpedo\obj\Debug\Torpedo.csproj.AssemblyReference.cache
+C:\Users\FarkasDominik\Downloads\20250109_FarkasDominik\Torpedo\obj\Debug\Torpedo.Form1.resources
+C:\Users\FarkasDominik\Downloads\20250109_FarkasDominik\Torpedo\obj\Debug\Torpedo.Properties.Resources.resources
+C:\Users\FarkasDominik\Downloads\20250109_FarkasDominik\Torpedo\obj\Debug\Torpedo.csproj.GenerateResource.cache
+C:\Users\FarkasDominik\Downloads\20250109_FarkasDominik\Torpedo\obj\Debug\Torpedo.csproj.CoreCompileInputs.cache
+C:\Users\FarkasDominik\Downloads\20250109_FarkasDominik\Torpedo\obj\Debug\Torpedo.exe
+C:\Users\FarkasDominik\Downloads\20250109_FarkasDominik\Torpedo\obj\Debug\Torpedo.pdb

@@ -1,0 +1,7 @@
+C:\Users\FarkasDominik\Downloads\20250515_FarkasDominik\FarkasDominik\bin\Debug\FarkasDominik.exe.config
+C:\Users\FarkasDominik\Downloads\20250515_FarkasDominik\FarkasDominik\bin\Debug\FarkasDominik.exe
+C:\Users\FarkasDominik\Downloads\20250515_FarkasDominik\FarkasDominik\bin\Debug\FarkasDominik.pdb
+C:\Users\FarkasDominik\Downloads\20250515_FarkasDominik\FarkasDominik\obj\Debug\FarkasDominik.csproj.AssemblyReference.cache
+C:\Users\FarkasDominik\Downloads\20250515_FarkasDominik\FarkasDominik\obj\Debug\FarkasDominik.csproj.CoreCompileInputs.cache
+C:\Users\FarkasDominik\Downloads\20250515_FarkasDominik\FarkasDominik\obj\Debug\FarkasDominik.exe
+C:\Users\FarkasDominik\Downloads\20250515_FarkasDominik\FarkasDominik\obj\Debug\FarkasDominik.pdb

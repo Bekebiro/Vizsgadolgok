@@ -1,0 +1,7 @@
+C:\Users\FarkasDominik\Downloads\20240227_FarkasDominik\matrix\bin\Debug\matrix.exe.config
+C:\Users\FarkasDominik\Downloads\20240227_FarkasDominik\matrix\bin\Debug\matrix.exe
+C:\Users\FarkasDominik\Downloads\20240227_FarkasDominik\matrix\bin\Debug\matrix.pdb
+C:\Users\FarkasDominik\Downloads\20240227_FarkasDominik\matrix\obj\Debug\matrix.csproj.AssemblyReference.cache
+C:\Users\FarkasDominik\Downloads\20240227_FarkasDominik\matrix\obj\Debug\matrix.csproj.CoreCompileInputs.cache
+C:\Users\FarkasDominik\Downloads\20240227_FarkasDominik\matrix\obj\Debug\matrix.exe
+C:\Users\FarkasDominik\Downloads\20240227_FarkasDominik\matrix\obj\Debug\matrix.pdb

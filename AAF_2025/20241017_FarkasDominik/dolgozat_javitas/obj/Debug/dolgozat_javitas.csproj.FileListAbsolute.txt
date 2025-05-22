@@ -1,0 +1,10 @@
+C:\Users\FarkasDominik\Downloads\20241017_FarkasDominik\dolgozat_javitas\bin\Debug\dolgozat_javitas.exe.config
+C:\Users\FarkasDominik\Downloads\20241017_FarkasDominik\dolgozat_javitas\bin\Debug\dolgozat_javitas.exe
+C:\Users\FarkasDominik\Downloads\20241017_FarkasDominik\dolgozat_javitas\bin\Debug\dolgozat_javitas.pdb
+C:\Users\FarkasDominik\Downloads\20241017_FarkasDominik\dolgozat_javitas\obj\Debug\dolgozat_javitas.csproj.AssemblyReference.cache
+C:\Users\FarkasDominik\Downloads\20241017_FarkasDominik\dolgozat_javitas\obj\Debug\dolgozat_javitas.Form1.resources
+C:\Users\FarkasDominik\Downloads\20241017_FarkasDominik\dolgozat_javitas\obj\Debug\dolgozat_javitas.Properties.Resources.resources
+C:\Users\FarkasDominik\Downloads\20241017_FarkasDominik\dolgozat_javitas\obj\Debug\dolgozat_javitas.csproj.GenerateResource.cache
+C:\Users\FarkasDominik\Downloads\20241017_FarkasDominik\dolgozat_javitas\obj\Debug\dolgozat_javitas.csproj.CoreCompileInputs.cache
+C:\Users\FarkasDominik\Downloads\20241017_FarkasDominik\dolgozat_javitas\obj\Debug\dolgozat_javitas.exe
+C:\Users\FarkasDominik\Downloads\20241017_FarkasDominik\dolgozat_javitas\obj\Debug\dolgozat_javitas.pdb

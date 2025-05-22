@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\2023-2024\\Asztali alkalmaz\u00E1s fejleszt\u00E9s\\20230916_FarkasDominik\\haromszog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1D12CB0-30B7-4A41-899B-8F2EB2F4CC59}|haromszog.csproj|h:\\2023-2024\\asztali alkalmaz\u00E1s fejleszt\u00E9s\\20230916_farkasdominik\\haromszog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1D12CB0-30B7-4A41-899B-8F2EB2F4CC59}|haromszog.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\2023-2024\\Asztali alkalmaz\u00E1s fejleszt\u00E9s\\20230916_FarkasDominik\\haromszog\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "H:\\2023-2024\\Asztali alkalmaz\u00E1s fejleszt\u00E9s\\20230916_FarkasDominik\\haromszog\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAAAFkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T07:52:50.456Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

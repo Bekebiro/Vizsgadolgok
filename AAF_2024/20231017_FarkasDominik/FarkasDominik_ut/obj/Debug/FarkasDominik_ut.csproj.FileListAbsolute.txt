@@ -1,0 +1,8 @@
+C:\Users\FarkasDominik\Downloads\20231017_FarkasDominik\FarkasDominik_ut\bin\Debug\FarkasDominik_ut.exe.config
+C:\Users\FarkasDominik\Downloads\20231017_FarkasDominik\FarkasDominik_ut\bin\Debug\FarkasDominik_ut.exe
+C:\Users\FarkasDominik\Downloads\20231017_FarkasDominik\FarkasDominik_ut\bin\Debug\FarkasDominik_ut.pdb
+C:\Users\FarkasDominik\Downloads\20231017_FarkasDominik\FarkasDominik_ut\obj\Debug\FarkasDominik_ut.csproj.AssemblyReference.cache
+C:\Users\FarkasDominik\Downloads\20231017_FarkasDominik\FarkasDominik_ut\obj\Debug\FarkasDominik_ut.csproj.SuggestedBindingRedirects.cache
+C:\Users\FarkasDominik\Downloads\20231017_FarkasDominik\FarkasDominik_ut\obj\Debug\FarkasDominik_ut.csproj.CoreCompileInputs.cache
+C:\Users\FarkasDominik\Downloads\20231017_FarkasDominik\FarkasDominik_ut\obj\Debug\FarkasDominik_ut.exe
+C:\Users\FarkasDominik\Downloads\20231017_FarkasDominik\FarkasDominik_ut\obj\Debug\FarkasDominik_ut.pdb

@@ -1,0 +1,10 @@
+C:\Users\FarkasDominik\Downloads\20241128_FarkasDominik\Bingo2GUI\bin\Debug\Bingo2GUI.exe.config
+C:\Users\FarkasDominik\Downloads\20241128_FarkasDominik\Bingo2GUI\bin\Debug\Bingo2GUI.exe
+C:\Users\FarkasDominik\Downloads\20241128_FarkasDominik\Bingo2GUI\bin\Debug\Bingo2GUI.pdb
+C:\Users\FarkasDominik\Downloads\20241128_FarkasDominik\Bingo2GUI\obj\Debug\Bingo2GUI.csproj.AssemblyReference.cache
+C:\Users\FarkasDominik\Downloads\20241128_FarkasDominik\Bingo2GUI\obj\Debug\Bingo2GUI.Form1.resources
+C:\Users\FarkasDominik\Downloads\20241128_FarkasDominik\Bingo2GUI\obj\Debug\Bingo2GUI.Properties.Resources.resources
+C:\Users\FarkasDominik\Downloads\20241128_FarkasDominik\Bingo2GUI\obj\Debug\Bingo2GUI.csproj.GenerateResource.cache
+C:\Users\FarkasDominik\Downloads\20241128_FarkasDominik\Bingo2GUI\obj\Debug\Bingo2GUI.csproj.CoreCompileInputs.cache
+C:\Users\FarkasDominik\Downloads\20241128_FarkasDominik\Bingo2GUI\obj\Debug\Bingo2GUI.exe
+C:\Users\FarkasDominik\Downloads\20241128_FarkasDominik\Bingo2GUI\obj\Debug\Bingo2GUI.pdb

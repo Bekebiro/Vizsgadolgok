@@ -1,0 +1,10 @@
+C:\Users\FarkasDominik\Downloads\20240919_FarkasDominik\Szamonkeres\bin\Debug\Szamonkeres.exe.config
+C:\Users\FarkasDominik\Downloads\20240919_FarkasDominik\Szamonkeres\bin\Debug\Szamonkeres.exe
+C:\Users\FarkasDominik\Downloads\20240919_FarkasDominik\Szamonkeres\bin\Debug\Szamonkeres.pdb
+C:\Users\FarkasDominik\Downloads\20240919_FarkasDominik\Szamonkeres\obj\Debug\Szamonkeres.csproj.AssemblyReference.cache
+C:\Users\FarkasDominik\Downloads\20240919_FarkasDominik\Szamonkeres\obj\Debug\Szamonkeres.Form1.resources
+C:\Users\FarkasDominik\Downloads\20240919_FarkasDominik\Szamonkeres\obj\Debug\Szamonkeres.Properties.Resources.resources
+C:\Users\FarkasDominik\Downloads\20240919_FarkasDominik\Szamonkeres\obj\Debug\Szamonkeres.csproj.GenerateResource.cache
+C:\Users\FarkasDominik\Downloads\20240919_FarkasDominik\Szamonkeres\obj\Debug\Szamonkeres.csproj.CoreCompileInputs.cache
+C:\Users\FarkasDominik\Downloads\20240919_FarkasDominik\Szamonkeres\obj\Debug\Szamonkeres.exe
+C:\Users\FarkasDominik\Downloads\20240919_FarkasDominik\Szamonkeres\obj\Debug\Szamonkeres.pdb

@@ -1,0 +1,8 @@
+C:\Users\FarkasDominik\Downloads\20231010_FarkasDominik\tarsalgo\bin\Debug\tarsalgo.exe.config
+C:\Users\FarkasDominik\Downloads\20231010_FarkasDominik\tarsalgo\bin\Debug\tarsalgo.exe
+C:\Users\FarkasDominik\Downloads\20231010_FarkasDominik\tarsalgo\bin\Debug\tarsalgo.pdb
+C:\Users\FarkasDominik\Downloads\20231010_FarkasDominik\tarsalgo\obj\Debug\tarsalgo.csproj.AssemblyReference.cache
+C:\Users\FarkasDominik\Downloads\20231010_FarkasDominik\tarsalgo\obj\Debug\tarsalgo.csproj.SuggestedBindingRedirects.cache
+C:\Users\FarkasDominik\Downloads\20231010_FarkasDominik\tarsalgo\obj\Debug\tarsalgo.csproj.CoreCompileInputs.cache
+C:\Users\FarkasDominik\Downloads\20231010_FarkasDominik\tarsalgo\obj\Debug\tarsalgo.exe
+C:\Users\FarkasDominik\Downloads\20231010_FarkasDominik\tarsalgo\obj\Debug\tarsalgo.pdb
