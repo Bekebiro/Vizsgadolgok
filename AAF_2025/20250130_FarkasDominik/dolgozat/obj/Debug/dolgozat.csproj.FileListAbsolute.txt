@@ -1,0 +1,10 @@
+C:\Users\FarkasDominik\Downloads\20250130_FarkasDominik\dolgozat\bin\Debug\dolgozat.exe.config
+C:\Users\FarkasDominik\Downloads\20250130_FarkasDominik\dolgozat\bin\Debug\dolgozat.exe
+C:\Users\FarkasDominik\Downloads\20250130_FarkasDominik\dolgozat\bin\Debug\dolgozat.pdb
+C:\Users\FarkasDominik\Downloads\20250130_FarkasDominik\dolgozat\obj\Debug\dolgozat.csproj.AssemblyReference.cache
+C:\Users\FarkasDominik\Downloads\20250130_FarkasDominik\dolgozat\obj\Debug\dolgozat.Dolgozat.resources
+C:\Users\FarkasDominik\Downloads\20250130_FarkasDominik\dolgozat\obj\Debug\dolgozat.Properties.Resources.resources
+C:\Users\FarkasDominik\Downloads\20250130_FarkasDominik\dolgozat\obj\Debug\dolgozat.csproj.GenerateResource.cache
+C:\Users\FarkasDominik\Downloads\20250130_FarkasDominik\dolgozat\obj\Debug\dolgozat.csproj.CoreCompileInputs.cache
+C:\Users\FarkasDominik\Downloads\20250130_FarkasDominik\dolgozat\obj\Debug\dolgozat.exe
+C:\Users\FarkasDominik\Downloads\20250130_FarkasDominik\dolgozat\obj\Debug\dolgozat.pdb

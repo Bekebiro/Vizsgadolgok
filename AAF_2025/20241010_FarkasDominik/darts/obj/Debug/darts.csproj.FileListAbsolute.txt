@@ -1,0 +1,7 @@
+C:\Users\FarkasDominik\Downloads\20241010_FarkasDominik\darts\bin\Debug\darts.exe.config
+C:\Users\FarkasDominik\Downloads\20241010_FarkasDominik\darts\bin\Debug\darts.exe
+C:\Users\FarkasDominik\Downloads\20241010_FarkasDominik\darts\bin\Debug\darts.pdb
+C:\Users\FarkasDominik\Downloads\20241010_FarkasDominik\darts\obj\Debug\darts.csproj.AssemblyReference.cache
+C:\Users\FarkasDominik\Downloads\20241010_FarkasDominik\darts\obj\Debug\darts.csproj.CoreCompileInputs.cache
+C:\Users\FarkasDominik\Downloads\20241010_FarkasDominik\darts\obj\Debug\darts.exe
+C:\Users\FarkasDominik\Downloads\20241010_FarkasDominik\darts\obj\Debug\darts.pdb

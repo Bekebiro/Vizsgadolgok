@@ -1,0 +1,20 @@
+C:\Users\FarkasDominik\Downloads\20250306_FarkasDominik\uzenetKodolo\bin\Debug\uzenetKodolo.exe.config
+C:\Users\FarkasDominik\Downloads\20250306_FarkasDominik\uzenetKodolo\bin\Debug\uzenetKodolo.exe
+C:\Users\FarkasDominik\Downloads\20250306_FarkasDominik\uzenetKodolo\bin\Debug\uzenetKodolo.pdb
+C:\Users\FarkasDominik\Downloads\20250306_FarkasDominik\uzenetKodolo\obj\Debug\uzenetKodolo.csproj.AssemblyReference.cache
+C:\Users\FarkasDominik\Downloads\20250306_FarkasDominik\uzenetKodolo\obj\Debug\uzenetKodolo.Form1.resources
+C:\Users\FarkasDominik\Downloads\20250306_FarkasDominik\uzenetKodolo\obj\Debug\uzenetKodolo.Properties.Resources.resources
+C:\Users\FarkasDominik\Downloads\20250306_FarkasDominik\uzenetKodolo\obj\Debug\uzenetKodolo.csproj.GenerateResource.cache
+C:\Users\FarkasDominik\Downloads\20250306_FarkasDominik\uzenetKodolo\obj\Debug\uzenetKodolo.csproj.CoreCompileInputs.cache
+C:\Users\FarkasDominik\Downloads\20250306_FarkasDominik\uzenetKodolo\obj\Debug\uzenetKodolo.exe
+C:\Users\FarkasDominik\Downloads\20250306_FarkasDominik\uzenetKodolo\obj\Debug\uzenetKodolo.pdb
+H:\2024-2025\Asztali Alkalmazás Fejlesztés\20250306_FarkasDominik\uzenetKodolo\obj\Debug\uzenetKodolo.csproj.AssemblyReference.cache
+H:\2024-2025\Asztali Alkalmazás Fejlesztés\20250306_FarkasDominik\uzenetKodolo\obj\Debug\uzenetKodolo.Form1.resources
+H:\2024-2025\Asztali Alkalmazás Fejlesztés\20250306_FarkasDominik\uzenetKodolo\obj\Debug\uzenetKodolo.Properties.Resources.resources
+H:\2024-2025\Asztali Alkalmazás Fejlesztés\20250306_FarkasDominik\uzenetKodolo\obj\Debug\uzenetKodolo.csproj.GenerateResource.cache
+H:\2024-2025\Asztali Alkalmazás Fejlesztés\20250306_FarkasDominik\uzenetKodolo\obj\Debug\uzenetKodolo.csproj.CoreCompileInputs.cache
+H:\2024-2025\Asztali Alkalmazás Fejlesztés\20250306_FarkasDominik\uzenetKodolo\obj\Debug\uzenetKodolo.exe
+H:\2024-2025\Asztali Alkalmazás Fejlesztés\20250306_FarkasDominik\uzenetKodolo\obj\Debug\uzenetKodolo.pdb
+H:\2024-2025\Asztali Alkalmazás Fejlesztés\20250306_FarkasDominik\uzenetKodolo\bin\Debug\uzenetKodolo.exe.config
+H:\2024-2025\Asztali Alkalmazás Fejlesztés\20250306_FarkasDominik\uzenetKodolo\bin\Debug\uzenetKodolo.exe
+H:\2024-2025\Asztali Alkalmazás Fejlesztés\20250306_FarkasDominik\uzenetKodolo\bin\Debug\uzenetKodolo.pdb

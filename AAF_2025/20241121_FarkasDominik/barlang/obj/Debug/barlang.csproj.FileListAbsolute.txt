@@ -1,0 +1,10 @@
+C:\Users\FarkasDominik\Downloads\20241121_FarkasDominik\barlang\bin\Debug\barlang.exe.config
+C:\Users\FarkasDominik\Downloads\20241121_FarkasDominik\barlang\bin\Debug\barlang.exe
+C:\Users\FarkasDominik\Downloads\20241121_FarkasDominik\barlang\bin\Debug\barlang.pdb
+C:\Users\FarkasDominik\Downloads\20241121_FarkasDominik\barlang\obj\Debug\barlang.csproj.AssemblyReference.cache
+C:\Users\FarkasDominik\Downloads\20241121_FarkasDominik\barlang\obj\Debug\barlang.Form1.resources
+C:\Users\FarkasDominik\Downloads\20241121_FarkasDominik\barlang\obj\Debug\barlang.Properties.Resources.resources
+C:\Users\FarkasDominik\Downloads\20241121_FarkasDominik\barlang\obj\Debug\barlang.csproj.GenerateResource.cache
+C:\Users\FarkasDominik\Downloads\20241121_FarkasDominik\barlang\obj\Debug\barlang.csproj.CoreCompileInputs.cache
+C:\Users\FarkasDominik\Downloads\20241121_FarkasDominik\barlang\obj\Debug\barlang.exe
+C:\Users\FarkasDominik\Downloads\20241121_FarkasDominik\barlang\obj\Debug\barlang.pdb

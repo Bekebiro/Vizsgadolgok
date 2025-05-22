@@ -1,0 +1,8 @@
+C:\Users\FarkasDominik\Downloads\20231017_FarkasDominik\ut2\bin\Debug\ut2.exe.config
+C:\Users\FarkasDominik\Downloads\20231017_FarkasDominik\ut2\bin\Debug\ut2.exe
+C:\Users\FarkasDominik\Downloads\20231017_FarkasDominik\ut2\bin\Debug\ut2.pdb
+C:\Users\FarkasDominik\Downloads\20231017_FarkasDominik\ut2\obj\Debug\ut2.csproj.AssemblyReference.cache
+C:\Users\FarkasDominik\Downloads\20231017_FarkasDominik\ut2\obj\Debug\ut2.csproj.SuggestedBindingRedirects.cache
+C:\Users\FarkasDominik\Downloads\20231017_FarkasDominik\ut2\obj\Debug\ut2.csproj.CoreCompileInputs.cache
+C:\Users\FarkasDominik\Downloads\20231017_FarkasDominik\ut2\obj\Debug\ut2.exe
+C:\Users\FarkasDominik\Downloads\20231017_FarkasDominik\ut2\obj\Debug\ut2.pdb

@@ -1,0 +1,7 @@
+C:\Users\FarkasDominik\Downloads\20240905_FarkasDominik\teszt\bin\Debug\teszt.exe.config
+C:\Users\FarkasDominik\Downloads\20240905_FarkasDominik\teszt\bin\Debug\teszt.exe
+C:\Users\FarkasDominik\Downloads\20240905_FarkasDominik\teszt\bin\Debug\teszt.pdb
+C:\Users\FarkasDominik\Downloads\20240905_FarkasDominik\teszt\obj\Debug\teszt.csproj.AssemblyReference.cache
+C:\Users\FarkasDominik\Downloads\20240905_FarkasDominik\teszt\obj\Debug\teszt.csproj.CoreCompileInputs.cache
+C:\Users\FarkasDominik\Downloads\20240905_FarkasDominik\teszt\obj\Debug\teszt.exe
+C:\Users\FarkasDominik\Downloads\20240905_FarkasDominik\teszt\obj\Debug\teszt.pdb

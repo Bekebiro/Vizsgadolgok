@@ -1,0 +1,7 @@
+C:\Users\FarkasDominik\Downloads\20240116_FarkasDominik\lotto\lotto\bin\Debug\lotto.exe.config
+C:\Users\FarkasDominik\Downloads\20240116_FarkasDominik\lotto\lotto\bin\Debug\lotto.exe
+C:\Users\FarkasDominik\Downloads\20240116_FarkasDominik\lotto\lotto\bin\Debug\lotto.pdb
+C:\Users\FarkasDominik\Downloads\20240116_FarkasDominik\lotto\lotto\obj\Debug\lotto.csproj.AssemblyReference.cache
+C:\Users\FarkasDominik\Downloads\20240116_FarkasDominik\lotto\lotto\obj\Debug\lotto.csproj.CoreCompileInputs.cache
+C:\Users\FarkasDominik\Downloads\20240116_FarkasDominik\lotto\lotto\obj\Debug\lotto.exe
+C:\Users\FarkasDominik\Downloads\20240116_FarkasDominik\lotto\lotto\obj\Debug\lotto.pdb

@@ -1,0 +1,7 @@
+C:\Users\FarkasDominik\Downloads\20240123_FarkasDominik\randomSzamok\bin\Debug\randomSzamok.exe.config
+C:\Users\FarkasDominik\Downloads\20240123_FarkasDominik\randomSzamok\bin\Debug\randomSzamok.exe
+C:\Users\FarkasDominik\Downloads\20240123_FarkasDominik\randomSzamok\bin\Debug\randomSzamok.pdb
+C:\Users\FarkasDominik\Downloads\20240123_FarkasDominik\randomSzamok\obj\Debug\randomSzamok.csproj.AssemblyReference.cache
+C:\Users\FarkasDominik\Downloads\20240123_FarkasDominik\randomSzamok\obj\Debug\randomSzamok.csproj.CoreCompileInputs.cache
+C:\Users\FarkasDominik\Downloads\20240123_FarkasDominik\randomSzamok\obj\Debug\randomSzamok.exe
+C:\Users\FarkasDominik\Downloads\20240123_FarkasDominik\randomSzamok\obj\Debug\randomSzamok.pdb

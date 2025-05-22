@@ -1,0 +1,7 @@
+C:\Users\FarkasDominik\Downloads\20240312_FarkasDominik\szalloda_javitas\bin\Debug\szalloda_javitas.exe.config
+C:\Users\FarkasDominik\Downloads\20240312_FarkasDominik\szalloda_javitas\bin\Debug\szalloda_javitas.exe
+C:\Users\FarkasDominik\Downloads\20240312_FarkasDominik\szalloda_javitas\bin\Debug\szalloda_javitas.pdb
+C:\Users\FarkasDominik\Downloads\20240312_FarkasDominik\szalloda_javitas\obj\Debug\szalloda_javitas.csproj.AssemblyReference.cache
+C:\Users\FarkasDominik\Downloads\20240312_FarkasDominik\szalloda_javitas\obj\Debug\szalloda_javitas.csproj.CoreCompileInputs.cache
+C:\Users\FarkasDominik\Downloads\20240312_FarkasDominik\szalloda_javitas\obj\Debug\szalloda_javitas.exe
+C:\Users\FarkasDominik\Downloads\20240312_FarkasDominik\szalloda_javitas\obj\Debug\szalloda_javitas.pdb

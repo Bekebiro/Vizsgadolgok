@@ -1,0 +1,10 @@
+C:\Users\FarkasDominik\Downloads\20240905_FarkasDominik\firstForm\bin\Debug\firstForm.exe.config
+C:\Users\FarkasDominik\Downloads\20240905_FarkasDominik\firstForm\bin\Debug\firstForm.exe
+C:\Users\FarkasDominik\Downloads\20240905_FarkasDominik\firstForm\bin\Debug\firstForm.pdb
+C:\Users\FarkasDominik\Downloads\20240905_FarkasDominik\firstForm\obj\Debug\firstForm.csproj.AssemblyReference.cache
+C:\Users\FarkasDominik\Downloads\20240905_FarkasDominik\firstForm\obj\Debug\firstForm.Form1.resources
+C:\Users\FarkasDominik\Downloads\20240905_FarkasDominik\firstForm\obj\Debug\firstForm.Properties.Resources.resources
+C:\Users\FarkasDominik\Downloads\20240905_FarkasDominik\firstForm\obj\Debug\firstForm.csproj.GenerateResource.cache
+C:\Users\FarkasDominik\Downloads\20240905_FarkasDominik\firstForm\obj\Debug\firstForm.csproj.CoreCompileInputs.cache
+C:\Users\FarkasDominik\Downloads\20240905_FarkasDominik\firstForm\obj\Debug\firstForm.exe
+C:\Users\FarkasDominik\Downloads\20240905_FarkasDominik\firstForm\obj\Debug\firstForm.pdb

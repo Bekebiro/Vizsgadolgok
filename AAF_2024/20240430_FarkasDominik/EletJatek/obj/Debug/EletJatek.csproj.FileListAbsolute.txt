@@ -1,0 +1,7 @@
+C:\Users\FarkasDominik\Downloads\20240430_FarkasDominik\EletJatek\obj\Debug\EletJatek.csproj.AssemblyReference.cache
+C:\Users\FarkasDominik\Downloads\20240430_FarkasDominik\EletJatek\obj\Debug\EletJatek.csproj.CoreCompileInputs.cache
+C:\Users\FarkasDominik\Downloads\20240430_FarkasDominik\EletJatek\bin\Debug\EletJatek.exe.config
+C:\Users\FarkasDominik\Downloads\20240430_FarkasDominik\EletJatek\bin\Debug\EletJatek.exe
+C:\Users\FarkasDominik\Downloads\20240430_FarkasDominik\EletJatek\bin\Debug\EletJatek.pdb
+C:\Users\FarkasDominik\Downloads\20240430_FarkasDominik\EletJatek\obj\Debug\EletJatek.exe
+C:\Users\FarkasDominik\Downloads\20240430_FarkasDominik\EletJatek\obj\Debug\EletJatek.pdb

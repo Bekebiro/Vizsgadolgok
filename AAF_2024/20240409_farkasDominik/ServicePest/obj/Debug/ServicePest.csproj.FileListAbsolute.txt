@@ -1,0 +1,7 @@
+C:\Users\FarkasDominik\Downloads\20240409_farkasDominik\ServicePest\bin\Debug\ServicePest.exe.config
+C:\Users\FarkasDominik\Downloads\20240409_farkasDominik\ServicePest\bin\Debug\ServicePest.exe
+C:\Users\FarkasDominik\Downloads\20240409_farkasDominik\ServicePest\bin\Debug\ServicePest.pdb
+C:\Users\FarkasDominik\Downloads\20240409_farkasDominik\ServicePest\obj\Debug\ServicePest.csproj.AssemblyReference.cache
+C:\Users\FarkasDominik\Downloads\20240409_farkasDominik\ServicePest\obj\Debug\ServicePest.csproj.CoreCompileInputs.cache
+C:\Users\FarkasDominik\Downloads\20240409_farkasDominik\ServicePest\obj\Debug\ServicePest.exe
+C:\Users\FarkasDominik\Downloads\20240409_farkasDominik\ServicePest\obj\Debug\ServicePest.pdb
